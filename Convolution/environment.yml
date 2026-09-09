@@ -1,0 +1,10 @@
+name: /Users/kristinapavlovska/Desktop/Signals/Convolution/env
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - jupyter
+  - scikit-learn
+  - numpy
+  - pandas
+prefix: /Users/kristinapavlovska/Desktop/Signals/Convolution/env
